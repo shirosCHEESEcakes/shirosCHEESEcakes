@@ -6,12 +6,3 @@
 
 
 <br> "The Lord is my shepherd, I lack nothing."
-
-
-
-   <sub>' welcome to my github!! '</sub>
-    <td valign="top" width="50%">
-     <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/067d304a-10c5-4006-9ef9-e0d086913bf8" />
-</td>
-  </tr>
-</table>
