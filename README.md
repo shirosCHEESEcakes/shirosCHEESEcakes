@@ -10,5 +10,5 @@
 
 
 
-"The Lord is my shepherd, I lack nothing." <img width="447" height="447" alt="images" src="https://github.com/user-attachments/assets/48c4a037-b888-447f-be92-431bedbc0a26" />
+"The Lord is my shepherd, I lack nothing." <img width="100" height="100" alt="images" src="https://github.com/user-attachments/assets/48c4a037-b888-447f-be92-431bedbc0a26" />
 
