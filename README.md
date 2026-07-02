@@ -19,7 +19,7 @@
       <p>newt fictkin ( mazerunner ) , fred weasley yms ( dbls dni )</p>
       <p>i hate proshippers, preds, any kind of problematic people</p>
       <br>
-      <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d681a7c7-5c7a-4d27-b992-6db68452aec1" />
+      <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8e768516-b007-4970-949d-16995e521458" />
  width="100%">
     </td>
     <td valign="top" width="50%">
