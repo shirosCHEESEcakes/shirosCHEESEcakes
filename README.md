@@ -24,7 +24,6 @@
     </td>
     <td valign="top" width="50%">
       <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6df235dd-285d-4870-8e72-746eaa57902e" />
- width="100%">
     </td>
   </tr>
 </table>
