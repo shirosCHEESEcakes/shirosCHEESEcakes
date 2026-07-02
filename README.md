@@ -11,7 +11,7 @@
 
 <br> "The Lord is my shepherd, I lack nothing."         <br><br><img width="300" height="300" alt="images" src="https://github.com/user-attachments/assets/48c4a037-b888-447f-be92-431bedbc0a26" />
 
-
+<br>
 <table>
   <tr>
     <td valign="top" width="50%">
