@@ -13,25 +13,18 @@
 
 
 
-
 <table>
   <tr>
-    <!-- COLUNA DA ESQUERDA -->
-    <td valign="top" width="50%">
+     <td valign="top" width="50%">
       <p>comfortable names: newt / june |\ she / him --</p>
       <p>newt fictkin ( mazerunner ) , fred weasley yms ( dbls dni )</p>
       <p>i hate proshippers, preds, any kind of problematic people</p>
       <br>
-      <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a3588569-316b-4213-b614-534501f8a858" />
- width="100%">
+      <img src="https://github.com" width="100%">
     </td>
-    
-    <!-- COLUNA DA DIREITA -->
+  
     <td valign="top" width="50%">
-      <img src=<img width="1200" height="2289" alt="image" src="https://github.com/user-attachments/assets/ea128923-f642-4999-87a0-c714a431bec2" />
-" width="100%">
+      <img src="https://github.com" width="100%">
     </td>
   </tr>
 </table>
-
-
