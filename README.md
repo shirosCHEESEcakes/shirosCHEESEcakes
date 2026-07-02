@@ -26,4 +26,4 @@
   </tr>
 </table>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=48&pause=1200&color=D6C6AB&center=true&vCenter=true&width=1400&height=100&lines=%22i+can't,+newt.%22;%22KILL+ME!+kill+me+or+i'll+kill+you!%22;%22i+can't,+newt.+I+CANT!%22;%22goddamit,+thomas..+KILL+ME!%22;%22please+tommy,+please.%22">
+<img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=48&pause=1200&color=D6C6AB&center=true&vCenter=true&width=1400&height=100&lines=%22hello!!%22;%22HII!%22;%22waves!!%22;%22hewo!%22;>
