@@ -12,19 +12,19 @@
 <br> "The Lord is my shepherd, I lack nothing."         <br><br><img width="300" height="300" alt="images" src="https://github.com/user-attachments/assets/48c4a037-b888-447f-be92-431bedbc0a26" />
 
 
-
 <table>
   <tr>
-     <td valign="top" width="50%">
+    <td valign="top" width="50%">
       <p>comfortable names: newt / june |\ she / him --</p>
       <p>newt fictkin ( mazerunner ) , fred weasley yms ( dbls dni )</p>
       <p>i hate proshippers, preds, any kind of problematic people</p>
       <br>
-      <img src="https://github.com" width="100%">
+      <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/d681a7c7-5c7a-4d27-b992-6db68452aec1" />
+ width="100%">
     </td>
-  
     <td valign="top" width="50%">
-      <img src="https://github.com" width="100%">
+      <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6df235dd-285d-4870-8e72-746eaa57902e" />
+ width="100%">
     </td>
   </tr>
 </table>
