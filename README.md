@@ -12,10 +12,7 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <p>pronouns: she . her --</p>
-      <p>minor . -18</p>
-      <p>problematic ppl stay away.</p>
-      <br>
+     <br>
       <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8e768516-b007-4970-949d-16995e521458" />
     </td>
     <td valign="top" width="50%">
