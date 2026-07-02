@@ -12,12 +12,25 @@
 <br> "The Lord is my shepherd, I lack nothing."         <br><br><img width="300" height="300" alt="images" src="https://github.com/user-attachments/assets/48c4a037-b888-447f-be92-431bedbc0a26" />
 
 
+
+
 <table>
   <tr>
-    <td><img src=<img width="200" height="200" alt="200" src="https://github.com/user-attachments/assets/b6cacdd7-2a96-4ce8-bd2b-ffb11e6b80e2 />
-" width="300"></td>
-    <td><img src=<img width="437" height="500" alt="s-l1200" src="https://github.com/user-attachments/assets/b9a4474b-d8f3-4f52-b191-9224c7741b64 />
-" width="300"></td>
+    <!-- COLUNA DA ESQUERDA -->
+    <td valign="top" width="50%">
+      <p>comfortable names: newt / june |\ she / him --</p>
+      <p>newt fictkin ( mazerunner ) , fred weasley yms ( dbls dni )</p>
+      <p>i hate proshippers, preds, any kind of problematic people</p>
+      <br>
+      <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/a3588569-316b-4213-b614-534501f8a858" />
+ width="100%">
+    </td>
+    
+    <!-- COLUNA DA DIREITA -->
+    <td valign="top" width="50%">
+      <img src=<img width="1200" height="2289" alt="image" src="https://github.com/user-attachments/assets/ea128923-f642-4999-87a0-c714a431bec2" />
+" width="100%">
+    </td>
   </tr>
 </table>
 
