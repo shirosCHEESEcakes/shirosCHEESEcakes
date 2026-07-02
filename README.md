@@ -20,7 +20,6 @@
       <p>i hate proshippers, preds, any kind of problematic people</p>
       <br>
       <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/8e768516-b007-4970-949d-16995e521458" />
- width="100%">
     </td>
     <td valign="top" width="50%">
       <img src=<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/6df235dd-285d-4870-8e72-746eaa57902e" />
