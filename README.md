@@ -7,3 +7,7 @@
 
 
 <br> "The Lord is my shepherd, I lack nothing."
+
+
+<div align="center">
+<sub> want to know more about me? check this!</sub>
