@@ -6,10 +6,8 @@
  <img src="https://readme-typing-svg.herokuapp.com?font=Baloo+2&size=48&pause=1200&color=D6C6AB&center=true&vCenter=true&width=1400&height=100&lines=%22I'm+not+afraid+of+anything+anymore,+because+I'm+not+alone+anymore.%22;%22tiro+finale!!%22;%22if+you+stay+with+me...+will+you+fight+by+my+side+from+now+on?%22;%22no+matter+what+kind+of+nightmare+this+world+turns+into+i+will+never...-%22;%22-regret+the+path+i+chose.%22">
 
 
-<br> "The Lord is my shepherd, I lack nothing."
+<br> blahblahblahblhe
 
 
 <div align="center">
-<sub> want to know more about me? check this! </sub>
-
-  <sub> strawpage in WIP </sub>       
+      
